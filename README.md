@@ -1,8 +1,8 @@
 ### Hi there! I am [Katherine Antipushina](https://github.com/utoprey)
 
-Hi there! This is Hejie, a Computer Science PhD student in Data Mining.
+This is Kathy, a PhD student in Computer Science.
 
-- 🧠 I am studying generative modeling for mental health.
+- 🧠 I am studying generative modeling for neuroimaging health.
 - 🤓 I am open to research discussions and potential collaborations, feel free to reach out to me.
 
 
