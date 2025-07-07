@@ -9,13 +9,13 @@ This is Riccardo De Feo, PhD, data scientist, ML engineer, and MLOps enjoyer. I 
 ![tex.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/tex.png)
 ![python.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/python.png)
 ![jupyter.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/jupyter.png)
-<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/pycharm.png" height="30">
+<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/pycharm.png" width="30">
 ![pytorch.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/pytorch.png)
 ![linux.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/linux.png)
 ![git.png](https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/git.png)
-<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/ants.png" height="30">
-<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/fsl.png" height="30">
-<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/docker-mark-blue.png" height="30">
+<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/ants.png" width="30">
+<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/fsl.png" width="40">
+<img src="https://raw.githubusercontent.com/Hierakonpolis/Hierakonpolis/master/assets/docker-mark-blue.png" width="35">
 
 #### My Github States
 
